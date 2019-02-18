@@ -1,4 +1,4 @@
-# Library Carentry
+# Library Carpentry
 Library Carpentry je međunarodna zajednica koja se bavi razvijanjem lekcija i radionica za pojedince koji se bave nekim od poslova u polju informacijskih znanosti; knjižničari, informacijski stručnjaci, arhivisti i mnogi drugi. Cilj ove zajednice je stvoriti početnu točku koja je zadužena za osnaživanje informacijske zajednice kroz podučavanja o korištenju softvera, rada s podacima te njihovim strukturama. Radionice koje provodi Library Carpentry se sastoje od nekoliko lekcija koje vode instruktori. Za voditelje i polaznike tečajeva je važno da se drže pravila ponašanja koja su propisana u zajednici tako da bi što uspješnije usavršili svoja znanja.
 
 # Znanja stečena od Library Carpentry-ja
